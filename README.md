@@ -18,10 +18,7 @@ Sonic Sorcer CLI is a Python-based tool designed to provide a simple yet powerfu
 ## Installation
 
 1. Ensure you have Python 3.8 or later installed.
-2. Clone the repository:
-```
-   git clone https://github.com/your-username/sonic-sorcer-cli.git
-```
+2. Clone the repository
 3. Navigate to the project directory:
 ```
    cd sonic-sorcer-cli
