@@ -1,10 +1,10 @@
-# Sonic Sorcer CLI
+# Sonic Sorcerer CLI
 
 A command-line sound mixer for editing and manipulating audio files.
 
 ## Overview
 
-Sonic Sorcer CLI is a Python-based tool designed to provide a simple yet powerful interface for audio editing and manipulation. It allows users to perform various audio processing tasks directly from the command line, making it ideal for quick edits, batch processing, and integration into automated workflows.
+Sonic Sorcerer CLI is a Python-based tool designed to provide a simple yet powerful interface for audio editing and manipulation. It allows users to perform various audio processing tasks directly from the command line, making it ideal for quick edits, batch processing, and integration into automated workflows.
 
 ## Features
 
@@ -21,7 +21,7 @@ Sonic Sorcer CLI is a Python-based tool designed to provide a simple yet powerfu
 2. Clone the repository
 3. Navigate to the project directory:
 ```
-   cd sonic-sorcer-cli
+   cd sonic-Sorcerer-cli
 ```
 4. Install the required dependencies:
 ```
@@ -29,7 +29,7 @@ Sonic Sorcer CLI is a Python-based tool designed to provide a simple yet powerfu
 ```
 
 ## Usage
-Sonic Sorcer CLI uses a command-based interface. Here are some example commands:
+Sonic Sorcerer CLI uses a command-based interface. Here are some example commands:
 
 ```bash
 # load a wav file
